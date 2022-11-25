@@ -1,0 +1,15 @@
+/Users/elinholmstrom/Projects/Interface/Interface/obj/Debug/net7.0/Interface.csproj.AssemblyReference.cache
+/Users/elinholmstrom/Projects/Interface/Interface/obj/Debug/net7.0/Interface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elinholmstrom/Projects/Interface/Interface/obj/Debug/net7.0/Interface.AssemblyInfoInputs.cache
+/Users/elinholmstrom/Projects/Interface/Interface/obj/Debug/net7.0/Interface.AssemblyInfo.cs
+/Users/elinholmstrom/Projects/Interface/Interface/obj/Debug/net7.0/Interface.csproj.CoreCompileInputs.cache
+/Users/elinholmstrom/Projects/Interface/Interface/bin/Debug/net7.0/Interface
+/Users/elinholmstrom/Projects/Interface/Interface/bin/Debug/net7.0/Interface.deps.json
+/Users/elinholmstrom/Projects/Interface/Interface/bin/Debug/net7.0/Interface.runtimeconfig.json
+/Users/elinholmstrom/Projects/Interface/Interface/bin/Debug/net7.0/Interface.dll
+/Users/elinholmstrom/Projects/Interface/Interface/bin/Debug/net7.0/Interface.pdb
+/Users/elinholmstrom/Projects/Interface/Interface/obj/Debug/net7.0/Interface.dll
+/Users/elinholmstrom/Projects/Interface/Interface/obj/Debug/net7.0/refint/Interface.dll
+/Users/elinholmstrom/Projects/Interface/Interface/obj/Debug/net7.0/Interface.pdb
+/Users/elinholmstrom/Projects/Interface/Interface/obj/Debug/net7.0/Interface.genruntimeconfig.cache
+/Users/elinholmstrom/Projects/Interface/Interface/obj/Debug/net7.0/ref/Interface.dll

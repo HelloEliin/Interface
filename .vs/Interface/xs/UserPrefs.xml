@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{38BDFA29-A10F-4E7D-91E6-D7BBFADAAB1D}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Interface PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Interface/WorkflowEngine.cs">
+    <Files>
+      <File FileName="Interface/Program.cs" Line="23" Column="2" />
+      <File FileName="Interface/WorkFlow.cs" Line="15" Column="1" />
+      <File FileName="Interface/IWork.cs" Line="16" Column="1" />
+      <File FileName="Interface/IActivity.cs" Line="10" Column="1" />
+      <File FileName="Interface/Processing.cs" Line="6" Column="9" />
+      <File FileName="Interface/Email.cs" Line="13" Column="8" />
+      <File FileName="Interface/WebService.cs" Line="4" Column="1" />
+      <File FileName="Interface/UpLoad.cs" Line="7" Column="48" />
+      <File FileName="Interface/WorkflowEngine.cs" Line="16" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Interface" expanded="True">
+            <Node name="Interface" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
